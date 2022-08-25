@@ -12,5 +12,5 @@ Welcome to our team homepage. We have formatted this like a "read the docs" type
 
 ## [Individual Logs][logs]
 
-[weekly-reports]: notpiazzasite/weekly_management_report
+[weekly-reports]: weekly_management_report
 [logs]: notpiazzasite/logs
