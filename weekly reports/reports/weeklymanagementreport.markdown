@@ -5,13 +5,13 @@ nav_order: 2
 parent: Weekly Management Report
 ---
 ## CS4500 Weekly Management Report
-{.v-align-middle}
+{: .v-align-middle}
 # Team 14
-{.v-align-middle}
+{: .v-align-middle}
 # Not Piazza
-{.v-align-middle}
+{: .v-align-middle}
 # 8/25/2022
-{.v-align-middle}
+{: .v-align-middle}
 * * *
 # Accomplishments
 - Got the team website up and running 

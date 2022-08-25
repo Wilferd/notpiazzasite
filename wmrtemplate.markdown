@@ -1,19 +1,16 @@
----
 layout: default
 title: Week <FILL IN>
 nav_order: 2
 parent: Weekly Management Report
 nav_exclude: true
----
-{: .no_toc }
 ## CS4500 Weekly Management Report
-{.v-align-middle}
+{: .v-align-middle}
 # Team 14
-{.v-align-middle}
+{: .v-align-middle}
 # Not Piazza
-{.v-align-middle}
+{: .v-align-middle}
 # date
-{.v-align-middle}
+{: .v-align-middle}
 * * *
 # Accomplishments
 - (Be specific – what was accomplished and who participated; bulletize response)
