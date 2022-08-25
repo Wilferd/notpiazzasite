@@ -5,5 +5,5 @@ nav_order: 2
 has_children: true
 permalink: /weekly_management_report
 ---
-
-This is the upper logs text
+## **Weekly Management Reports**
+This is the page that contains all of the references to our Weekly Management Reports. 

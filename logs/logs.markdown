@@ -5,5 +5,5 @@ nav_order: 3
 has_children: true
 permalink: /logs
 ---
-
-This is the upper logs text
+## **Individual Logs**
+This is the page that contains all of the references to our Individual Logs. 
