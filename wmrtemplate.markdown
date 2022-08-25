@@ -1,8 +1,9 @@
+---
 layout: default
-title: Week <FILL IN>
 nav_order: 2
 parent: Weekly Management Report
 nav_exclude: true
+---
 ## CS4500 Weekly Management Report
 {: .v-align-middle}
 # Team 14
