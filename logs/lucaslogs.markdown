@@ -8,6 +8,9 @@ parent: Individual Logs
 - 4 hours - Implemented light and dark themes with a toggle in the settings page to switch between them. 
 - 3 hours - Created a rich text editor on the UI with typical capabilities and image insertion.
 - 1 hour - Debugged browser console errors that were left over from last semester.
+- 1 hour - Discussed frontend changes that we needed flushed out from last semester, made backlog of tasks.
+
+Worked with Kaden in discussing frontend changes.
 
 ## Log for Week 1:  August 22 – August 25
 
