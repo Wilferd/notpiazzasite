@@ -15,3 +15,4 @@ parent: Individual Logs
 -  Created repo for front-end, and worked with Lucas to decouple the frontend code into it's own project (2 hours)
 -  Began creating mock REST API endpoints using AWS API Gateway in order to separate the frontend/backend workflows (3 hours)
 -  Spent time refamiliarizing myself with the code I wrote last semester, to refresh my memory (1 hour) 
+
