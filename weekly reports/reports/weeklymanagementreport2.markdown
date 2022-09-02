@@ -13,29 +13,29 @@ parent: Weekly Management Report
 # Accomplishments
 - Finished making dark/light mode themes with a toggle button to select which is active. (Lucas)
 - Created a rich text editor for the frontend. (Lucas)
-- Dockerized the backend (Ryan)
-- Created backend project and repo (Ryan)
-- Research authentication library for logins (Mark)
-- Integrated the mock API (Kaden)
-- Added all of the data and set up the mock API (Kaden)
+- Created new backend project and repo. (Ryan)
+- Dockerized the backend. (Ryan)
+- Research authentication library for logins. (Mark)
+- Set up the mock API and added data to it. (Kaden)
+- Integrated the mock API into the frontend. (Kaden)
 
 # Goals & Priorities
 ### Short Term
-- Make updates to the design document and turn in on Canvas. (Mark due 9/9)
-- Integrate the backend. (Kaden due 9/6)
-- Connect the rich text editor to the backend. (Lucas due 9/9)
+- Make updates to the design document and turn in on Canvas. (Mark, Lucas due 9/9)
+- Add the actual database endpoints to the frontend so can switch between those and the mock ones. (Kaden due 9/6)
+- Style comments to look like our mock-up ones. (Lucas due 9/9)
 - Improve the styling of the post list. (Kaden due 9/9)
-- Improve parent replies in API (Ryan due 9/6)
-- Add authentication/login page (Mark due 9/6) 
-- Rename the swagger objects (Ryan due 9/6)
+- Improve parent replies for comments in the API. (Ryan due 9/6)
+- Create a better mock-up of the admin and professor pages on Figma. (Kaden due 9/9)
+- Add authentication/login page. (Mark due 9/6) 
+- Rename the Swagger objects. (Ryan due 9/6)
 
 ### Long Term
-- Implement a way to mark a post a read or unread (Team due 9/15)
-- Figma mock-up of admin page (Kaden due 9/9)
-- Style comments. (Lucas due 9/9)
-- Create an admin page so an admin can change users' roles. (Mark due 9/11)
-- Implement a course page for professors to create/delete courses, manage TAs, and modify category tags for posts. (Kaden,Mark,Lucas due 9/16)
-- Improve security of the backend, protecting data from users who shouldn't be able to access it. (Mark, Ryan due 9/15)
+- Implement (on backend and frontend) a way for users' to mark posts as read or unread, flagged or unflagged, and upvoted or not. (Whole team due 9/16)
+- Create the admin page so an admin can change users' roles. (Mark, Kaden due 9/16)
+- Implement a course page for professors to create/delete courses, manage TAs, and modify category tags for posts. (Kaden,Lucas due 9/16)
+- Improve security of the backend, protecting data from users who shouldn't be able to access it. (Mark, Ryan due 9/30 but will continue as we add to API through semester)
+- Connect the rich text editor's image-handling to the backend and retrieve it correctly back on the frotend. (Lucas,Ryan due 9/30)
 
 # Needs
 - N/A
