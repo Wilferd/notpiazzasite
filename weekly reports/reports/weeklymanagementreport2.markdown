@@ -11,19 +11,6 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-<<<<<<< HEAD
-- Dockerized the backend (Ryan)
-- Create a mock api for temp usage (Kaden)
-- 
-
-# Goals & Priorities
-- # **Short Term**
-- Find the old api docs (Mark Due 8/31)
-- Create a mock api for temp usage (Kaden Due 8/31)
-- # **Long Term**
-- Work on dockerizing the backend (Ryan Due 9/1)
-- Connect the UI to the new API (Kaden Due 9/2)
-=======
 - Finished making dark/light mode themes with a toggle button to select which is active. (Lucas)
 - Created a rich text editor for the frontend. (Lucas)
 - TODO - rest of team
@@ -40,7 +27,6 @@ parent: Weekly Management Report
 - Work on dockerizing the backend (Ryan Due 9/5) --- Move to accomplishment???
 - Implement a course page for professors to create/delete courses, manage TAs, and modify category tags for posts. (?? due ??)
 - Improve security of the backend, protecting data from users who shouldn't be able to access it. (?? due ??)
->>>>>>> 7ee72d85dd148983b505ad2fe7926f371fbb98f9
 
 # Needs
 - N/A
