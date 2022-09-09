@@ -4,6 +4,12 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 3:  9/5 - 9/9
+- Added real database endpoints to the code, and abstracted host name to environment variable (2 hour)
+- Improved styling of the post list (1 hour)
+- Spent time researching Figma, and started making changes to admin UI (2 hours)
+- Worked with the team on tweaking the feature timeline, and assigned people to tasks with deadlines (1 hour)
+
 # Log for Week 2:  8/29 - 9/2
 - Complete mock API endpoints, and added mock objects to the responses for testing (1 hour)
 - Integrated mock API endpoints into the front end (2 hours)
