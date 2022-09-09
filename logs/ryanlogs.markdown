@@ -5,6 +5,9 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 3:  9/5 - 9/9
+ - 5 hours: fixed api schema variable names and fixed parent replies
+
 ## Log for Week 2:  8/29 - 9/2
  - 10 hours: seperated the backend into its own project and dockerized it
 
