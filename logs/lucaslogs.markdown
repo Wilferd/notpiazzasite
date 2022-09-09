@@ -9,7 +9,7 @@ parent: Individual Logs
 
 - 1 hour - Adjustments made to rich text editor.
 - 5 hours - Styled the comments to now look like the mockup ones.
-- 8 hours - Made updates to our design document - changed the requirements analysis to show data flow, updated the timeline, and various minor tweaks.
+- 9 hours - Made updates to our design document - changed the requirements analysis to show data flow, updated the timeline, and various minor tweaks.
 
 Worked with the team in fixing our new timeline.
 

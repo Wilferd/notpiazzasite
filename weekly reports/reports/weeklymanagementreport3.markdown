@@ -12,7 +12,7 @@ parent: Weekly Management Report
 
 # Accomplishments
 - Made updates to the design document and turned it in on Canvas. (Lucas)
-- Fixed our team timeline from last semester by predicting better due dates and accounting for guides and demos (Team)
+- Fixed our team timeline from last semester by predicting better due dates and accounting for guides and demos. (Team)
 - Added the actual database endpoints to the frontend so we can switch between those and the mock ones. (Kaden)
 - Styled comments to look like our mock-up ones. (Lucas)
 - Improved the styling of the post list. (Kaden)
