@@ -11,27 +11,32 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- Make updates to the design document and turn in on Canvas. (Lucas due 9/9)
-- Add the actual database endpoints to the frontend so can switch between those and the mock ones. (Kaden due 9/6)
-- Style comments to look like our mock-up ones. (Lucas due 9/9)
-- Improve the styling of the post list. (Kaden due 9/9)
-- Added Auth on the backend (Mark due 9/9)
-- Improve parent replies for comments in the API. (Ryan due 9/6)
-- Rename the Swagger objects. (Ryan due 9/6)
+- Made updates to the design document and turned it in on Canvas. (Lucas)
+- Fixed our team timeline from last semester by predicting better due dates and accounting for guides and demos (Team)
+- Added the actual database endpoints to the frontend so we can switch between those and the mock ones. (Kaden)
+- Styled comments to look like our mock-up ones. (Lucas)
+- Improved the styling of the post list. (Kaden)
+- Added authorization on the backend. (Mark)
+- Improved parent replies for comments in the API. (Ryan)
+- Renamed the Swagger objects. (Ryan)
 
 # Goals & Priorities
 ### Short Term
-- Get replies working for comments. (Lucas due 9/12)
-- Create a better mock-up of the admin and professor pages on Figma. (Kaden due 9/12)
-- Finish connecting auth on the frontend and backend. (Mark due 9/13)
-- Add authentication/login page. (Mark due 9/14) 
-- Implement (on backend and frontend) a way for users' to mark posts as read or unread, flagged or unflagged, and upvoted or not. (Whole team due 9/16)
-- Create the admin page so an admin can change users' roles. (Mark, Kaden due 9/16)
-- Implement a course page for professors to create/delete courses, manage TAs, and modify category tags for posts. (Kaden,Lucas due 9/16)
+- Add authentication/login page. (Mark due 9/12) 
+- Polish UI sketches of the admin and professor pages on Figma. (Kaden due 9/12)
+- Create admin page for user roles (can be static page for now). (Mark due 9/16)
+- Get replies working for comments. (Lucas due 9/16)
+- Get the voting system fully functional on UI (Lucas due 9/16)
+- Finish connecting authorization on the frontend and backend. (Mark due 9/13)
+- Implement on backend a way for users' to mark posts as read or unread, flagged or unflagged, and upvoted or not. (Ryan due 9/16)
+- Create flagging of posts and read/unread indicators on the frontend (Kaden due 9/16)
 
 ### Long Term
-- Improve security of the backend, protecting data from users who shouldn't be able to access it. (Mark, Ryan due 9/30 but will continue as we add to API through semester)
-- Connect the rich text editor's image-handling to the backend and retrieve it correctly back on the frotend. (Lucas,Ryan due 9/30)
+- Comments fully complete, meaning they can be collapsable, nested, and interacted with. (Lucas due 9/23)
+- Improve security of the backend, protecting data from users who shouldn't be able to access it. (Mark due 9/30)
+- Create fully functional class creation page for all of professors' needs (Kaden UI, Ryan API due 10/21)
+- Prepare for alpha demo (Team due 9/30)
+- Create User Guide Draft (Team due 10/21)
 
 # Needs
 - N/A

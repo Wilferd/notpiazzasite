@@ -4,6 +4,15 @@ title: Lucas Katsanevas Logs
 nav_order: 3
 parent: Individual Logs
 ---
+
+## Log for Week 3:  September 2 – September 9
+
+- 1 hour - Adjustments made to rich text editor.
+- 5 hours - Styled the comments to now look like the mockup ones.
+- 8 hours - Made updates to our design document - changed the requirements analysis to show data flow, updated the timeline, and various minor tweaks.
+
+Worked with the team in fixing our new timeline.
+
 ## Log for Week 2:  August 26 – September 2
 - 4 hours - Implemented light and dark themes with a toggle in the settings page to switch between them. 
 - 3 hours - Created a rich text editor on the UI with typical capabilities and image insertion.
