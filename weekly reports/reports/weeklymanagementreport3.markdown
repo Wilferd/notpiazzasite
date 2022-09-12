@@ -11,32 +11,26 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- Made updates to the design document and turned it in on Canvas. (Lucas)
-- Fixed our team timeline from last semester by predicting better due dates and accounting for guides and demos. (Team)
-- Added the actual database endpoints to the frontend so we can switch between those and the mock ones. (Kaden)
-- Styled comments to look like our mock-up ones. (Lucas)
-- Improved the styling of the post list. (Kaden)
-- Added authorization on the backend. (Mark)
-- Improved parent replies for comments in the API. (Ryan)
-- Renamed the Swagger objects. (Ryan)
+- Design Doc Update 1 complete. (Lucas)
+- Improved B8 by styling the comment section. (Lucas)
+- Improved B8 on the API side. (Ryan)
+- Completed B5 - post list. (Kaden)
+- Made Progress towards completing B1 - scaffolding user identity into the project. (Mark)
 
 # Goals & Priorities
 ### Short Term
-- Add authentication/login page. (Mark due 9/12) 
-- Polish UI sketches of the admin and professor pages on Figma. (Kaden due 9/12)
-- Create admin page for user roles (can be static page for now). (Mark due 9/16)
-- Get replies working for comments. (Lucas due 9/16)
-- Get the voting system fully functional on UI (Lucas due 9/16)
-- Finish connecting authorization on the frontend and backend. (Mark due 9/13)
-- Implement on backend a way for users' to mark posts as read or unread, flagged or unflagged, and upvoted or not. (Ryan due 9/16)
-- Create flagging of posts and read/unread indicators on the frontend (Kaden due 9/16)
+- Finish B1 by adding authentication/login page. (Mark due 9/12) 
+- Finish B8 by getting replies working for comments. (Lucas due 9/16)
+- Do P8 by getting voting system fully functional. (Lucas due 9/16)
+- Accomplish B3 - creating admin page for user roles. (Mark due 9/21)
+- Complete P3 by making post list indicators. (Ryan due 9/16)
+- Begin working on B4 - course creation page. (Kaden due 10/7)
 
 ### Long Term
-- Comments fully complete, meaning they can be collapsable, nested, and interacted with. (Lucas due 9/23)
-- Improve security of the backend, protecting data from users who shouldn't be able to access it. (Mark due 9/30)
-- Create fully functional class creation page for all of professors' needs (Kaden UI, Ryan API due 10/21)
+- Have comments fully functional, meaning B8, P8, and W5 are all done. (Lucas due 9/23)
 - Prepare for alpha demo (Team due 9/30)
 - Create User Guide Draft (Team due 10/21)
+- Professor page fully functional, meaning B4 and P4 are all complete. (Kaden due 10/21)
 
 # Needs
 - N/A
