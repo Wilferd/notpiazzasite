@@ -5,7 +5,9 @@ nav_order: 3
 parent: Individual Logs
 ---
 ## Log for Week 4:  September 12 – September 16
- - 
+ - Finished the backend for identity (4 hours)
+ - Debugged the database size issue and circular dependency (4 hours)
+ - Finished the frontend for identity (3 hours)
 ## Log for Week 3:  September 5 – September 9
  - Researched available libaries for scaffolding C# Identity and Auth (3 hours)
  - Researched how the api and ui will couple together with jwt (1.5 hours)
