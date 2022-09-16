@@ -4,6 +4,8 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 4:  September 12 – September 16
+ - 
 ## Log for Week 3:  September 5 – September 9
  - Researched available libaries for scaffolding C# Identity and Auth (3 hours)
  - Researched how the api and ui will couple together with jwt (1.5 hours)
