@@ -5,6 +5,12 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 4:  September 9 – September 16
+
+- 2 hours - Made adjustments to design document for re-evaluation.
+- 1 hour - Helped with B5 in turning the post list's post descriptions' HTML to text only.
+- 8 hours - Completed B8 by making it so user's can create comments and replies to comments.
+
 ## Log for Week 3:  September 2 – September 9
 
 - 1 hour - Adjustments made to rich text editor.

@@ -11,29 +11,24 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- User identity B1 (logins and personal information tied to each user) (Mark due 9/12)
-- Finish B8 by getting replies working for comments. (Lucas due 9/16)
-- Do P8 by getting voting system fully functional. (Lucas due 9/16)
-- Complete P3 by making post list indicators. (Ryan due 9/16)
-- Begin working on B4 - course creation page. (Kaden due 10/7) 
+- Completed B1 - user identity (logins and personal information tied to each user). (Mark)
+- Finished B8 by getting replies working for comments. (Lucas)
+- Completed P8 by getting voting system fully functional. (Lucas)
+- Finished P3 - making post list indicators. (Ryan)
+- Made progress on B4 - course creation page. (Kaden) 
 
 # Goals & Priorities
 ### Short Term
-- Finish working on B4 - course creation page. (Kaden due 10/7) 
--B2. Roles (admins, professors, TAs, and students) tied to each
-user (Mark due 9/19)
-- B3. Admin page where admin can change the role of any user (Mark due 9/21)
-- W5 Comment threads can be infinitely nested and
-collapsable. (Lucas due 9/23)
-- Have comments fully functional, meaning B8, P8, and W5 are all done. (Lucas due 9/23)
+- Get B2 finished by creating roles tied to each user. (Mark due 9/19)
+- Do B3 by creating an admin page for these roles. (Mark due 9/21)
+- Get W5 done by making comment threads nested and collapsable. (Lucas due 9/23)
+- Start working on P6 - marking comments as follow-up solutions vs questions. (Ryan due 9/30) 
 
 ### Long Term
-- Prepare for alpha demo (Team due 9/30)
-- Create User Guide Draft (Team due 10/21)
-- Professor page fully functional, meaning B3 and P4 are all complete. (Kaden due 10/21)
+- Prepare for alpha demo. (Team due 9/30)
+- Create User Guide Draft. (Team due 10/21)
+- Professor page fully functional, meaning B4 and P4 are all complete. (Kaden due 10/21)
+- Complete B9 (verifying solutions) once P6 is done. (Lucas due 10/7)
 
 # Needs
 - N/A
-
-
-
