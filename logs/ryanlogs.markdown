@@ -5,6 +5,10 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 4:  9/12 - 9/16
+ - 5 hours: rewrote post endpoints
+ - 1 hour: fixed CORS issue
+
 ## Log for Week 3:  9/5 - 9/9
  - 5 hours: fixed api schema variable names and fixed parent replies
 
