@@ -10,6 +10,7 @@ parent: Individual Logs
 - 2 hours - Made adjustments to design document for re-evaluation.
 - 1 hour - Helped with B5 in turning the post list's post descriptions' HTML to text only.
 - 8 hours - Completed B8 by making it so user's can create comments and replies to comments.
+- 1 hour - finished voting functionality (P8) on UI.
 
 ## Log for Week 3:  September 2 – September 9
 
