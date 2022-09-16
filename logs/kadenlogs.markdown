@@ -4,6 +4,11 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 4:  9/12 - 9/16
+- Revamped UI designs for all pages on figma (5 hours)
+- Changed post list to meet new UI standards(1 hour)
+- Began workin on the admin settings page, which will handle course creation, adding/removing students, creating categories, etc. (3 hours)
+
 # Log for Week 3:  9/5 - 9/9
 - Added real database endpoints to the code, and abstracted host name to environment variable (2 hour)
 - Improved styling of the post list (1 hour)
