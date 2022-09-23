@@ -4,6 +4,10 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 5:  September 19 – September 23
+ - Finished attaching roles to users (2 hours)
+ - Finished changing and displaying users endpoints (2 hours)
+ - Started frontend for the admin page (1 hour)
 ## Log for Week 4:  September 12 – September 16
  - Finished the backend for identity (4 hours)
  - Debugged the database size issue and circular dependency (4 hours)
