@@ -5,6 +5,12 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 5:  September 16 – September 23
+
+- 5 hours - Made it so comment section can be nested and collapsable.
+- 2 hours - Made layout changes to the discussion page.
+- 1 hour - Various bug fixes for posts and upvotes.
+
 ## Log for Week 4:  September 9 – September 16
 
 - 2 hours - Made adjustments to design document for re-evaluation.
