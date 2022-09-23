@@ -5,6 +5,10 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 5:  9/19 - 9/23
+ - 5 hours: post/reply features, like votes and views
+ - 5 hours: Rewrote backend structure (controller->service->repository)
+
 ## Log for Week 4:  9/12 - 9/16
  - 5 hours: rewrote post endpoints
  - 1 hour: fixed CORS issue
