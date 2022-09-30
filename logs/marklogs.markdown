@@ -4,6 +4,9 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 6:  September 26 – September 30
+ - Worked on admin page backend (5 hours)
+ - Finished admin page frontend (4 hours)
 ## Log for Week 5:  September 19 – September 23
  - Finished attaching roles to users (2 hours)
  - Finished changing and displaying users endpoints (2 hours)
