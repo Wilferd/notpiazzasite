@@ -11,20 +11,22 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- Present for alpha demo. (Kaden due 9/30)
-- Finish B3 by creating an admin page. (Mark due 9/21)
-- Finish P6 tagging comments as solutions (Lucas due 9/30)
-- Finish backend for P6 tagging comments as solutions (Ryan due 9/30)
+- Presented alpha demo. (Kaden due 9/30)
+- Finished B3 by creating an admin page. (Mark)
+- Improved P6 (tagging comments as solutions) by doing more backend work. (Ryan)
+- Finished P6 by doing work on the frontend (Lucas)
+
 
 # Goals & Priorities
 ### Short Term
-- Start B9 - TA/professor verifying solutions. (Lucas due 10/7)
-- Continue working on B4 - Course creation. (Kaden due 10/7)
-- Start working on P5 - Allow students to post and comment anonymously. (Ryan due 10/7)
+- Implement B9 so that TA/professor can verify solutions. (Lucas due 10/7)
+- Continue on B4 - Course creation page. (Kaden due 10/7)
+- Implement P5 - Allow students to post and comment anonymously. (Ryan due 10/7)
+- Do P2 by making search bar functional. (Lucas due 10/7)
 
 ### Long Term
 - Create User Guide Draft. (Mark due 10/21)
-- Professor page fully functional, meaning B4 and P4 are all complete. (Kaden due 10/21)
+- Professor page fully functional, meaning B4 and P4 are both complete. (Kaden due 10/21)
 - Work on W4 - Saving posts as drafts. (Ryan due 10/21)
 - Work on P11 - settings page for users. (Mark due 10/28)
 

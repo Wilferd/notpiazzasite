@@ -5,6 +5,12 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 6:  September 23 – September 30
+
+- 4 hours - Finished P6 by adding follow-up vs solution field to comments and hooking that up to the proposed solution box. 
+- 5 hours - Refactored users' roles/identity in api fetch calls to improve security now that we have admin page and roles working.
+- 2 hour - UI touchups for demo.
+
 ## Log for Week 5:  September 16 – September 23
 
 - 5 hours - Made it so comment section can be nested and collapsable.
