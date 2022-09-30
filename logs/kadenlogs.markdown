@@ -4,6 +4,11 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 6:  9/26 - 9/30
+- Finished post list indicators 3() hours)
+- Prepared for Alpha Demo (1 hour)
+- Continued workin on the admin settings page, which will handle course creation, adding/removing students, creating categories, etc. (1 hour)
+
 # Log for Week 5:  9/19 - 9/23
 - Refactored the front end to use the new API endpoints, and debugged related issues (3 hours)
 - Began changing front end UI to meet new design specs(2 hours)
