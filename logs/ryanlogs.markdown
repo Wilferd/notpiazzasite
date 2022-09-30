@@ -5,6 +5,10 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 6:  9/26 - 9/30
+ - 5 hours: fixed issues with post views and votes on the backend
+ - 5 hours: integrated authorization into existing endpoints such as post/reply creation
+
 ## Log for Week 5:  9/19 - 9/23
  - 5 hours: post/reply features, like votes and views
  - 5 hours: Rewrote backend structure (controller->service->repository)
