@@ -11,7 +11,7 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- Presented alpha demo. (Kaden due 9/30)
+- Presented alpha demo. (Kaden)
 - Finished B3 by creating an admin page. (Mark)
 - Improved P6 (tagging comments as solutions) by doing more backend work. (Ryan)
 - Finished P6 by doing work on the frontend (Lucas)
