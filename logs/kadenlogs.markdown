@@ -4,6 +4,11 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 7:  10/3 - 10/7
+- Worked on rebuilding the settings landing page (2 hours)
+- Began working on course creation page for professors, following figma designs (2 hours)
+- Spent lots of time studying for and taking midterms! :) 
+
 # Log for Week 6:  9/26 - 9/30
 - Finished post list indicators 3() hours)
 - Prepared for Alpha Demo (1 hour)
