@@ -4,6 +4,9 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 7:  October 3 – October 7
+- Work on components for the professor page (4 hours)
+- Worked on polishing the students roles page (2 hours)
 ## Log for Week 6:  September 26 – September 30
  - Worked on admin page backend (5 hours)
  - Finished admin page frontend (4 hours)
