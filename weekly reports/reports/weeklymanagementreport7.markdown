@@ -20,7 +20,7 @@ parent: Weekly Management Report
 # Goals & Priorities
 ### Short Term
 - Complete User Guide Draft. (Mark due 10/21)
-- Complete Design Doc Update 2 (Lucas due 10/21) 
+- Complete Design Doc Update 2. (Lucas due 10/21) 
 - P1. the ability for a user to be able to sort by new, unread, unanswered, answered, and instructor posts. (Kaden due 10/21)
 - P7. Ability for users to easily put in a tag to refer to other posts using @ with a post number. (Lucas due 10/21)
 - P4. Putting posts into post categories created by the instructor. (Kaden due 10/21)
@@ -41,10 +41,10 @@ parent: Weekly Management Report
 - Work on W8 - Setting/sending email notifications. This would allow the user to select how often they get emailed and for what types of posts for each of their courses. (Kaden due 11/4 now instead of 10/28) \
 **Note:** With the SSO and Canvas Integration being tasks needed to be completed after demo day, this allows us to focus more time on notifications. We would now like to add additional user notifications for role changes, student notifications for when they are added to and dropped from courses, and professor notifications for when students join their courses. We will need to push back the due date of this to accomodate these changes (upcoming 10/21 design document will have more details).
 
-- W1. Image and file uploading when creating posts/comments (Ryan due 11/11)
-- W2. Abstract way of demonstrating searching for a post with speech bubbles that grow as more characters are typed (due 11/18)
-- W3. Editing and deleting your own posts/comments (Mark due 11/25)
-- Final Design Document (Lucas due 12/2)
+- W1. Image and file uploading when creating posts/comments. (Ryan due 11/11)
+- W2. Abstract way of demonstrating searching for a post with speech bubbles that grow as more characters are typed. (due 11/18)
+- W3. Editing and deleting your own posts/comments. (Mark due 11/25)
+- Final Design Document. (Lucas due 12/2)
 - Final User Guide (Mark due 12/2) 
 - Demo Day (Team due 12/9)
 
