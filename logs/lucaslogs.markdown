@@ -5,6 +5,14 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+
+## Log for Week 7:  September 30 – October 7
+
+- 6 hours - implemented P2 - search bar and its ability to search posts by title, body, and replies.
+- 5 hours - Did frontend of B9 - making it so TA/professor can verify solutions.
+- 4 hours - made minor tweaks and bug fixes to voting and loading spinner.
+
+
 ## Log for Week 6:  September 23 – September 30
 
 - 4 hours - Finished P6 by adding follow-up vs solution field to comments and hooking that up to the proposed solution box. 
