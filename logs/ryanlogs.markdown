@@ -5,6 +5,10 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 7:  10/3 - 10/7
+ - 5 hours: added support for anonymously posting replies
+ - 1 hour: fixed an endpoint to allow searching replies
+
 ## Log for Week 6:  9/26 - 9/30
  - 5 hours: fixed issues with post views and votes on the backend
  - 5 hours: integrated authorization into existing endpoints such as post/reply creation
