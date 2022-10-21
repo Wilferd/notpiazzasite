@@ -5,6 +5,11 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 8:  10/17 - 10/24
+ - 3 hours: added support for creating post drafts
+ - 2 hours: fixed issues with endorsing posts on the backend
+ - 1 hour: editing post endpoint
+
 ## Log for Week 7:  10/3 - 10/7
  - 5 hours: added support for anonymously posting replies
  - 1 hour: fixed an endpoint to allow searching replies
