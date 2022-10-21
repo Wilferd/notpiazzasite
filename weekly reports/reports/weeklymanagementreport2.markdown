@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Week 2
-nav_order: 6
+nav_order: 7
 parent: Weekly Management Report
 ---
 # CS4500 Weekly Management Report 

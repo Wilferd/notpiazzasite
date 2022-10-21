@@ -4,6 +4,8 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 8:  October 17 – October 21
+- Worked on user guide initial draft (6 hours)
 ## Log for Week 7:  October 3 – October 7
 - Work on components for the professor page (4 hours)
 - Worked on polishing the students roles page (2 hours)
