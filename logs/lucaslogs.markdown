@@ -5,6 +5,12 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 8:  October 14– October 21
+
+- 2 hours - Made updates to design document.
+- 2 hours - Did frontend of W4 - making drafts.
+- 5 hours - Finished P7 by making tagging/referencing posts possible.
+- 11 hours - worked on the User Guide Draft. 
 
 ## Log for Week 7:  September 30 – October 7
 
