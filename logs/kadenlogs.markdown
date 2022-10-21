@@ -4,6 +4,13 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 9:  10/17 - 10/21
+- Completed filtering posts by read/unread, answered, endorsed, etc. (3 hours)
+- Continued working on course creation page for professors, following figma designs (3 hours)
+ 
+# Log for Week 8:  10/10 - 10/14
+- Fall Break
+
 # Log for Week 7:  10/3 - 10/7
 - Worked on rebuilding the settings landing page (2 hours)
 - Began working on course creation page for professors, following figma designs (2 hours)
