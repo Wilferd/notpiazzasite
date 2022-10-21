@@ -12,6 +12,7 @@ Welcome to our team homepage. We have formatted this like a "read the docs" type
 
 ## [Individual Logs][logs]
 
+<h2><a href="./Reports/UserGuideDraft.pdf" target="_blank"> User Guide Draft </a></h2>
 <h2><a href="./Reports/DesignDocumentUpdate2.pdf" target="_blank"> Design Document Update 2 </a></h2>
 <h2><a href="./Reports/DesignDocumentUpdate1.pdf" target="_blank"> Design Document Update 1 </a></h2>
 
