@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Week 7
+title: Week 8
 nav_order: 1
 parent: Weekly Management Report
 ---
 # CS4500 Weekly Management Report 
 ## Team 14
 ## Not Piazza
-## 10/7/2022
+## 10/21/2022
 ***
 
 # Accomplishments
