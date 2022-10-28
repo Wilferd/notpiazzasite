@@ -4,12 +4,15 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
-# Log for Week 9:  10/17 - 10/21
+# Log for Week 9:  10/24 - 10/28
+- Added filering by instructor post (1 hour)
+- Completed working on course creation page for professors (2 hours)
+- Completed course settings page, allowing professors to add students, TA's and categories (3 hours)
+- Prepared for demo (1 hour)
+
+# Log for Week 8:  10/17 - 10/21
 - Completed filtering posts by read/unread, answered, endorsed, etc. (3 hours)
 - Continued working on course creation page for professors, following figma designs (3 hours)
- 
-# Log for Week 8:  10/10 - 10/14
-- Fall Break
 
 # Log for Week 7:  10/3 - 10/7
 - Worked on rebuilding the settings landing page (2 hours)
