@@ -4,6 +4,10 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 9:  October 24 – October 28
+- Polished admin page for presentation (3 hours)
+- Made the settings page functional (1 hour)
+- Debugged with teammates (1 hour)
 ## Log for Week 8:  October 17 – October 21
 - Worked on user guide initial draft (6 hours)
 ## Log for Week 7:  October 3 – October 7
