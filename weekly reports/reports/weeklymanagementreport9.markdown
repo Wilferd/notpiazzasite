@@ -14,7 +14,7 @@ parent: Weekly Management Report
 - Prepared for and gave Beta Demo. (Lucas)
 - Progress on P11 - settings page for users on backend. (Ryan)
 - Finished P11 - settings page for users to modify personal information. (Mark)
-- Began W6 - email notifications. (Kaden)
+- Began W6 - Setting/sending email notifications. (Kaden)
 
 # Goals & Priorities
 ### Short Term
