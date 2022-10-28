@@ -5,6 +5,13 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 9:  October 21– October 28
+
+- 2 hours - preparation for beta demo
+- 1 hour - updates to B9 (verifying solutions).
+- 9 hours - making drafts (W4) work better.
+- 5 hours - Merging together all of our code and fixing bugs.
+
 ## Log for Week 8:  October 14– October 21
 
 - 2 hours - Made updates to design document.
