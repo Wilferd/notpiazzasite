@@ -5,6 +5,9 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 9
+- 5 hours working on and fixing endpoints for the beta demo
+
 ## Log for Week 8:  10/17 - 10/24
  - 3 hours: added support for creating post drafts
  - 2 hours: fixed issues with endorsing posts on the backend
