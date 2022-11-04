@@ -25,7 +25,7 @@ parent: Weekly Management Report
 - W3. Editing and deleting your own posts/comments. (Mark due 11/25)
 - Final Design Document. (Lucas due 12/2)
 - Final User Guide (Mark due 12/2) 
-- Demo Day (Team due 12/9)
+- Demo Day (Lucas due 12/9)
 
 # Needs
 - N/A
