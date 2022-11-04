@@ -4,6 +4,8 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 10:  October 31 – November 4
+- Worked on speech bubbles (9 hours)
 ## Log for Week 9:  October 24 – October 28
 - Polished admin page for presentation (3 hours)
 - Made the settings page functional (1 hour)
