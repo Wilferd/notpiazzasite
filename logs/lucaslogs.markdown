@@ -5,6 +5,12 @@ nav_order: 3
 parent: Individual Logs
 ---
 
+## Log for Week 10:  October 28– November 4
+
+- 2 hours - Updating rest of semester tasks and adding documenting bugs for our backlog.
+- 1 hour - began working on image/file uploading on frontend.
+- 4 hours - displaying a user's role correctly for each class and verifying solutions showing up based on this role.
+
 ## Log for Week 9:  October 21– October 28
 
 - 2 hours - preparation for beta demo
