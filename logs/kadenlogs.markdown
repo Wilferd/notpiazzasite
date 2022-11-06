@@ -4,6 +4,9 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+# Log for Week 10:  10/31 - 11/4
+- Began working on email notifications (3 hour)
+
 # Log for Week 9:  10/24 - 10/28
 - Added filering by instructor post (1 hour)
 - Completed working on course creation page for professors (2 hours)

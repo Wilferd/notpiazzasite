@@ -4,8 +4,10 @@ title: Ryan Howell Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 10: 10/31 - 11/4
+- 3 hours working on image and file uploading.
 
-## Log for Week 9
+## Log for Week 9: 10/24 - 10/28
 - 5 hours working on and fixing endpoints for the beta demo
 
 ## Log for Week 8:  10/17 - 10/24
