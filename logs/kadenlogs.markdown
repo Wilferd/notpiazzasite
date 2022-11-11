@@ -4,8 +4,15 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
-# Log for Week 10:  10/31 - 11/4
-- Began working on email notifications (3 hour)
+# Log for Week 11:  11/07 - 11/11
+- Mocked up content for brochure image and wrote blurb (1 hour)
+- Fixed some UI bugs related to scrollable lists on Manage Classes page (2 hours)
+- Talked to ryan about backend email research, and started making a plan to implement (1 hour)
+
+# Log for Week 10:  10/31 - 11/04
+- Did research on how to connect email service to backend (2 hours)
+- Made UI changes to professor settings page (1 hour)
+- - Spent lots of time studying for and taking midterms! :) 
 
 # Log for Week 9:  10/24 - 10/28
 - Added filering by instructor post (1 hour)

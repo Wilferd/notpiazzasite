@@ -4,6 +4,10 @@ title: Ryan Howell Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 11: 11/7 - 11/11
+- 4 hours: finished up image/file uploading
+- 1 hour: worked on other endpoints the team needed
+
 ## Log for Week 10: 10/31 - 11/4
 - 3 hours working on image and file uploading.
 
