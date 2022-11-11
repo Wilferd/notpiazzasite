@@ -4,7 +4,7 @@ title: Kaden Hendrickson Logs
 nav_order: 3
 parent: Individual Logs
 ---
-# Log for Week 11:  10/7 - 11/11
+# Log for Week 11:  11/07 - 11/11
 - Mocked up content for brochure image and wrote blurb (1 hour)
 - Fixed some UI bugs related to scrollable lists on Manage Classes page (2 hours)
 - Talked to ryan about backend email research, and started making a plan to implement (1 hour)
