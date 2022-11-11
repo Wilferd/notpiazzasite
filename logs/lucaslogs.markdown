@@ -13,20 +13,20 @@ parent: Individual Logs
 - 1 hour - Fixed all pages to now correctly scroll for dark mode.
 - 1 hour - Added badges to posts and comments for when the author is an instructor.
 
-## Log for Week 10:  October 28– November 4
+## Log for Week 10:  October 28 – November 4
 
 - 2 hours - Updating rest of semester tasks and adding bugs to our backlog.
 - 1 hour - began working on image/file uploading on frontend.
 - 4 hours - Fixed displaying a user's role correctly for each class and verifying solutions showing up based on this role.
 
-## Log for Week 9:  October 21– October 28
+## Log for Week 9:  October 21 – October 28
 
 - 2 hours - preparation for beta demo
 - 1 hour - updates to B9 (verifying solutions).
 - 9 hours - making drafts (W4) work better.
 - 5 hours - Merging together all of our code and fixing bugs.
 
-## Log for Week 8:  October 14– October 21
+## Log for Week 8:  October 14 – October 21
 
 - 2 hours - Made updates to design document.
 - 2 hours - Did frontend of W4 - making drafts.
