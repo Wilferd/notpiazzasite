@@ -9,7 +9,8 @@ parent: Individual Logs
 
 - 2 hours - Made password and email fields require and follow certain patterns.
 - 2 hours - Made all submission fields use our alert messages.
-- 2 hours - Took care of edge cases on discussions page when classes don't have posts, students don't have classes, etc.
+- 1 hour - Took care of edge cases on discussions page when classes don't have posts, students don't have classes, etc.
+- 1 hour - image uploading on UI.
 - 1 hour - Fixed all pages to now correctly scroll for dark mode.
 - 1 hour - Added badges to posts and comments for when the author is an instructor.
 
