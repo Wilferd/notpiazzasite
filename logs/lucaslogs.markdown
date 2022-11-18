@@ -4,6 +4,12 @@ title: Lucas Katsanevas Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 12:  November 11 – November 18
+
+- 4 hours - Turned response alerts to a context so that we don't need delays when displaying them.
+- 2 hours - Fixed the colors and design of the search bar and dropdowns.
+- 1 hours - Made a filter for narrowing down users on the admin page
+
 
 ## Log for Week 11:  November 4 – November 11
 

@@ -11,13 +11,16 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- W2. speech bubbles for similar posts. (Mark due 11/18)
+- Finished W2 - speech bubbles for similar posts. (Mark)
+- Progress on updates to final design document. (Lucas)
+- Progress on final user guide. (Kaden)
+- Progress on final user guide. (Ryan)
 
 # Goals & Priorities
 ### Short Term
 - W3. Editing and deleting your own posts/comments. (Mark due 11/25)
 - Final Design Document. (Lucas due 12/2)
-- Final User Guide (Mark due 12/2) 
+- Final User Guide (Mark due 12/2)
 
 ### Long Term
 - Demo Day (Lucas due 12/9)
