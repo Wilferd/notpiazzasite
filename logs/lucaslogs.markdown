@@ -9,7 +9,7 @@ parent: Individual Logs
 - 4 hours - Turned response alerts to a context so that we don't need delays when displaying them.
 - 2 hours - Fixed the colors and design of the search bar and dropdowns.
 - 1 hours - Made a filter for narrowing down users on the admin page
-
+- 1 hours - Design document updates.
 
 ## Log for Week 11:  November 4 – November 11
 
