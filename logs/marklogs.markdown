@@ -4,6 +4,8 @@ title: Mark Patterson Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 14:  November 28 – December 2
+- Worked on getting the edit and delete for posts and comments done (10 hours)
 ## Log for Week 12:  November 14 – November 18
 - Finished the speech bubbles (4 hours)
 ## Log for Week 11:  November 7 – November 11
