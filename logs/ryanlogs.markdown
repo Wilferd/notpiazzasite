@@ -4,6 +4,10 @@ title: Ryan Howell Logs
 nav_order: 3
 parent: Individual Logs
 ---
+## Log for Week 14: 11/28 - 2/2
+- 5 hours: continued bug fixes and optimization
+- 2 hours: research into hosting the site externally
+
 ## Log for Week 12: 11/14 - 11/18
 - 5 hours: bug fixes on old endpoints, like emails and image uploading
 
