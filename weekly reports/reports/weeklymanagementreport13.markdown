@@ -11,9 +11,11 @@ parent: Weekly Management Report
 ***
 
 # Accomplishments
-- W3. Editing and deleting your own posts/comments. (Mark due 11/25)
-- Final Design Document. (Lucas due 12/2)
-- Final User Guide (Mark due 12/2)
+- Finished W3 - Editing and deleting your own posts/comments. (Mark)
+- Updates to User Guide (Kaden)
+- Updates to User Guide (Ryan)
+- Finished Final Design Document. (Lucas)
+- Finished Final User Guide (Mark)
 
 # Goals & Priorities
 ### Short Term

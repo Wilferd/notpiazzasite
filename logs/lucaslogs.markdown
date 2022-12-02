@@ -4,6 +4,16 @@ title: Lucas Katsanevas Logs
 nav_order: 3
 parent: Individual Logs
 ---
+
+## Log for Week 13/14:  November 18 – December 2
+
+- 2 hours - bug fixes and adjustments to speech bubbles.
+- 7 hours - Image and file uploading adjustments. 
+- 1 hours - code block styling.
+- 2 hours - Design Document updates.
+- 5 hours - User guide updates.
+- 4 hours - various UI enhancements, such as updating help page, making drafts better, listing class roles, etc.
+
 ## Log for Week 12:  November 11 – November 18
 
 - 4 hours - Turned response alerts to a context so that we don't need delays when displaying them.
